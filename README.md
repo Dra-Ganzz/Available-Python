@@ -15,4 +15,4 @@ python encee.py sdcard/file/file.py -o output.py --no-import
 
 recommended| di sarankan
 no rename text
-python sdcard/file/file.py output.py --no-rename
+python encee.py /sdcard/file/file.py -o output.py --no-rename
