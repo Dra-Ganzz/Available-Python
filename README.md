@@ -13,6 +13,6 @@ standar
 no obfuscate import
 python encee.py sdcard/file/file.py -o output.py --no-import
 
-recommended
+recommended| di sarankan
 no rename text
 python sdcard/file/file.py output.py --no-rename
